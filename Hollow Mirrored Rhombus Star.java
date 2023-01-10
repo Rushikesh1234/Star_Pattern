@@ -1,3 +1,5 @@
+/*
+
 
 **Output**
 
@@ -7,7 +9,7 @@
    *   *                                                                                                                        
     ***** 
 
-
+*/
 
 public class Main
 {
